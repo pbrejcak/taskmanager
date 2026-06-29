@@ -59,3 +59,9 @@ Follow these instructions to set up the project locally on your machine.
 1. Navigate to the backend directory:
    ```bash
    cd taskmanager
+   
+### Example Screenshots
+![Application My Task Manager](images/img.png)
+![Application My Task Manager](images/img_1.png)
+![Application My Task Manager](images/img_2.png)
+![Application My Task Manager](images/img_3.png)
